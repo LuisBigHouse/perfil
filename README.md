@@ -2,7 +2,7 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador + Café">
 
 **Olá,** 
 
@@ -13,14 +13,13 @@
 
 💼 Ferramentas: **GitHub**, **VS Code**, **Visual Studio 2019**, **PhotoShop**
 
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
-
-  <a href="#" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/luis-matheus-casagrande-7a058a127/" alt="Linkedin" target="_blank">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
-  <a href="#" alt="WhatsApp">
+  <a href="https://api.whatsapp.com/send?phone=+5551993048819%22%3E" alt="WhatsApp" target="_blank">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 
-  <a href="#" alt="Facebook">
+  <a href="https://www.facebook.com/luismatheusc" alt="Facebook" target="_blank">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
+
+<img src="https://img.shields.io/badge/Discord-Luis%20BigHouse%230184-blueviolet?style=flat-square&logo=discord">
