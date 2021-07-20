@@ -23,3 +23,6 @@
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
 
 <img src="https://img.shields.io/badge/Discord-Luis%20BigHouse%230184-blueviolet?style=flat-square&logo=discord">
+
+<a href="https://steamcommunity.com/id/luisbighouse/" alt="Steam" target="_blank"><img src="https://img.shields.io/badge/Steam-Luis%20BigHouse-black?style=flat-square&logo=steam"></a>
+<img src="https://img.shields.io/badge/Blizzard-BigHouse%231761-blue?style=flat-square&logo=battlenet">
