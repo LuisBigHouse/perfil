@@ -14,7 +14,7 @@
 💼 Ferramentas: **GitHub**, **VS Code**, **Visual Studio 2019**, **PhotoShop**, **AutoCad**
 
 ---
-
+<div style="display: inline">
   <a href="https://www.linkedin.com/in/luis-matheus-casagrande-7a058a127/" alt="Linkedin" target="_blank">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
@@ -24,11 +24,15 @@
   <a href="https://www.facebook.com/luismatheusc" alt="Facebook" target="_blank">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
 
-  <a href="https://steamcommunity.com/id/luisbighouse/" alt="Steam" target="_blank"><img src="https://img.shields.io/badge/Steam-Luis%20BigHouse-black?style=flat-square&logo=steam"></a>
+  <a href="https://steamcommunity.com/id/luisbighouse/" alt="Steam" target="_blank">
+  <img src="https://img.shields.io/badge/Steam-Luis%20BigHouse-black?style=flat-square&logo=steam"></a>
 
-  <a href="#" alt="Discord"><img src="https://img.shields.io/badge/Discord-Luis%20BigHouse%230184-blueviolet?style=flat-square&logo=discord"></a>
+  <a href="#" alt="Discord">
+  <img src="https://img.shields.io/badge/Discord-Luis%20BigHouse%230184-blueviolet?style=flat-square&logo=discord"></a>
 
-  <a href="#" alt="Blizzard"><img src="https://img.shields.io/badge/Blizzard-BigHouse%231761-blue?style=flat-square&logo=battlenet"></a>
+  <a href="#" alt="Blizzard">
+  <img src="https://img.shields.io/badge/Blizzard-BigHouse%231761-blue?style=flat-square&logo=battlenet"></a>
+</div>
 
 
 
