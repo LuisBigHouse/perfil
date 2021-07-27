@@ -4,7 +4,7 @@
 
 **Olá 🖖,** 
 
-**Meu nome é Luis Matheus Casagrande, sou formado em engenharia química e estudante de programação. Amo tecnologia 📱, musica 🎸 e video games 🎮.**
+**Meu nome é Luis Matheus Casagrande, sou formado em engenharia química e estudante de programação. Me interesso por tecnologia 📱, musica 🎸 e video games 🎮.**
 **Atualmente sou estagiario na área de desenvolvimento na empresa** **[Telecon Sistemas](https://www.teleconsistemas.com.br).**
 
 ---
