@@ -1,26 +1,277 @@
-<!doctype html>
-<html lang="pt">
+<!DOCTYPE html>
+<html lang="en-US">
 
 <head>
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-    <!-- Bootstrap CSS -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
-        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-
-    <title>Meu perfil</title>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Material Resume</title>
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="crossorigin" />
+  <link rel="preload" as="style"
+    href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&amp;family=Roboto:wght@300;400;500;700&amp;display=swap" />
+  <link rel="stylesheet"
+    href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&amp;family=Roboto:wght@300;400;500;700&amp;display=swap"
+    media="print" onload="this.media='all'" />
+  <noscript>
+    <link rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&amp;family=Roboto:wght@300;400;500;700&amp;display=swap" />
+  </noscript>
+  <link href="css/font-awesome/css/all.min.css?ver=1.2.1" rel="stylesheet">
+  <link href="css/mdb.min.css?ver=1.2.1" rel="stylesheet">
+  <link href="css/aos.css?ver=1.2.1" rel="stylesheet">
+  <link href="css/main.css?ver=1.2.1" rel="stylesheet">
+  <noscript>
+    <style type="text/css">
+      [data-aos] {
+        opacity: 1 !important;
+        transform: translate(0) scale(1) !important;
+      }
+    </style>
+  </noscript>
 </head>
 
-<body>
-    <div class="container">
-        <h1>Meu perfil!</h1>
+<body id="top" style="background-color: rgb(214, 214, 214);">
+  <header class="d-print-none">
+    <div class="container text-center text-lg-left">
+      <div class="pt-4 clearfix">
+        <h1 class="site-title mb-0">Luís Matheus Casagrande</h1>
+        <div class="site-nav">
+          <nav role="navigation">
+            <ul class="nav justify-content-center">
+              <li class="nav-item"><a class="nav-link" href="#about" title="About"><span
+                    class="menu-title">Sobre</span></a>
+              </li>
+              <li class="nav-item"><a class="nav-link" href="#skills" title="Skills"><span
+                    class="menu-title">Skills</span></a>
+              </li>
+              <li class="nav-item"><a class="nav-link" href="#experience" title="Experience"><span
+                    class="menu-title">Experiência</span></a>
+              </li>
+              <li class="nav-item"><a class="nav-link" href="#education" title="Education"><span
+                    class="menu-title">Formação</span></a>
+              </li>
+              <li class="nav-item"><a class="nav-link" href="#contact" title="Contact"><span
+                    class="menu-title">Contact</span></a>
+              </li>
+            </ul>
+          </nav>
+        </div>
+      </div>
     </div>
-
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
-        integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
-        crossorigin="anonymous"></script>
+  </header>
+  <div class="page-content"
+    style="background-image:url(images/Bender-Background.jpg);background-size: auto; background-attachment: fixed">
+    <div style="background-color: rgba(0, 0, 0, 0.20);backdrop-filter: blur(1px);">
+      <div class="container">
+        <div class="resume-container">
+          <div class="shadow-1-strong my-5" id="intro" style="background-color: rgba(175, 175, 175, 0.95);">
+            <div class="bg-info text-white">
+              <div class="cover bg-image"><img src="images/wp8647157.jpg" />
+                <div class="mask"
+                  style="background-color: rgba(0, 0, 0, 0.7);backdrop-filter: blur(1px);background-size: auto">
+                  <div class="text-center p-5">
+                    <div class="avatar p-1"><img class="img-thumbnail shadow-2-strong"
+                        src="images/300x300-Foto-perfil.jpg" width="250" height="250" /></div>
+                    <div class="header-bio mt-3">
+                      <div data-aos="zoom-in" data-aos-delay="0">
+                        <h2 class="h1">Luís Matheus Casagrande</h2>
+                        <p>Estagiario Desenvolvimento</p>
+                        <p>Estudante de analise e desenvolvimento de sistemas</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="shadow-1-strong my-5 p-5" id="about" style="background-color: rgb(214, 214, 214);">
+              <div class="about-section">
+                <div class="row">
+                  <div class="col-md-6">
+                    <h2 class="h2 fw-light mb-4">Resumo</h2>
+                    <p>Olá 🖖,</p>
+                    <p>Meu nome é Luis Matheus Casagrande, sou formado em engenharia química e estudante de programação
+                      <strong>full stack</strong>. Me interesso por tecnologia 📱, musica 🎸 e video games 🎮.
+                    </p>
+                    <p>Atualmente sou estagiario na área de desenvolvimento na empresa <a
+                        href="https://www.teleconsistemas.com.br" target="_blank">Telecon Sistemas</a>.</p>
+                  </div>
+                  <div class="col-md-5 offset-lg-1">
+                    <div class="row mt-2">
+                      <h2 class="h2 fw-light mb-4">Bio</h2>
+                      <div class="col-sm-5">
+                        <div class="pb-2 fw-bolder"><i class="far fa-calendar-alt pe-2 text-muted"
+                            style="width:24px;opacity:0.85;"></i>Idade</div>
+                      </div>
+                      <div class="col-sm-7">
+                        <div class="pb-2" id="idade"></div>
+                      </div>
+                      <div class="col-sm-5">
+                        <div class="pb-2 fw-bolder"><i class="far fa-envelope pe-2 text-muted"
+                            style="width:24px;opacity:0.85;"></i> Email</div>
+                      </div>
+                      <div class="col-sm-7">
+                        <div class="pb-2">luismc2323@gmail.com</div>
+                      </div>
+                      <div class="col-sm-5">
+                        <div class="pb-2 fw-bolder"><i class="fas fa-phone pe-2 text-muted"
+                            style="width:24px;opacity:0.85;"></i> Telefone</div>
+                      </div>
+                      <div class="col-sm-7">
+                        <div class="pb-2">(51)99304-8819</div>
+                      </div>
+                      <div class="col-sm-5">
+                        <div class="pb-2 fw-bolder"><i class="fas fa-map-marker-alt pe-2 text-muted"
+                            style="width:24px;opacity:0.85;"></i> Endereço</div>
+                      </div>
+                      <div class="col-sm-7">
+                        <div class="pb-2">Canoas, RS, Brasil</div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="shadow-1-strong my-5 p-5" id="skills" style="background-color: rgb(214, 214, 214);">
+              <div class="skills-section">
+                <h2 class="h2 fw-light mb-4">Skills</h2>
+                <div class="row">
+                  <div class="col-md-6">
+                    <div class="mb-3"><span class="fw-bolder">HTML</span>
+                      <div class="progress my-2 rounded" style="height: 20px">
+                        <div class="progress-bar bg-info" role="progressbar" data-aos="zoom-in-right"
+                          data-aos-delay="100" data-aos-anchor=".skills-section" style="width: 70%;" aria-valuenow="95"
+                          aria-valuemin="0" aria-valuemax="100">Avançado</div>
+                      </div>
+                    </div>
+                    <div class="mb-3"><span class="fw-bolder">CSS</span>
+                      <div class="progress my-2 rounded" style="height: 20px">
+                        <div class="progress-bar bg-info" role="progressbar" data-aos="zoom-in-right"
+                          data-aos-delay="200" data-aos-anchor=".skills-section" style="width: 65%" aria-valuenow="85"
+                          aria-valuemin="0" aria-valuemax="100">Intermediario</div>
+                      </div>
+                    </div>
+                    <div class="mb-3"><span class="fw-bolder">Inglês</span>
+                      <div class="progress my-2 rounded" style="height: 20px">
+                        <div class="progress-bar bg-warning" role="progressbar" data-aos="zoom-in-right"
+                          data-aos-delay="400" data-aos-anchor=".skills-section" style="width: 90%" aria-valuenow="95"
+                          aria-valuemin="0" aria-valuemax="100">Expert</div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-md-6">
+                    <div class="mb-3"><span class="fw-bolder">JavaScript</span>
+                      <div class="progress my-2 rounded" style="height: 20px">
+                        <div class="progress-bar bg-info" role="progressbar" data-aos="zoom-in-right"
+                          data-aos-delay="300" data-aos-anchor=".skills-section" style="width: 65%" aria-valuenow="75"
+                          aria-valuemin="0" aria-valuemax="100">Intermediario</div>
+                      </div>
+                    </div>
+                    <div class="mb-3"><span class="fw-bolder">C#</span>
+                      <div class="progress my-2 rounded" style="height: 20px">
+                        <div class="progress-bar bg-info" role="progressbar" data-aos="zoom-in-right"
+                          data-aos-delay="300" data-aos-anchor=".skills-section" style="width: 75%" aria-valuenow="75"
+                          aria-valuemin="0" aria-valuemax="100">Avançado</div>
+                      </div>
+                    </div>
+                    <div class="mb-3"><span class="fw-bolder">Adobe Photoshop</span>
+                      <div class="progress my-2 rounded" style="height: 20px">
+                        <div class="progress-bar bg-secondary" role="progressbar" data-aos="zoom-in-right"
+                          data-aos-delay="400" data-aos-anchor=".skills-section" style="width: 80%" aria-valuenow="95"
+                          aria-valuemin="0" aria-valuemax="100">Avançado</div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="shadow-1-strong my-5 p-5" id="experience" style="background-color: rgb(214, 214, 214);">
+              <div class="work-experience-section">
+                <h2 class="h2 fw-light mb-4">Experiência</h2>
+                <div class="timeline">
+                  <div class="timeline-card timeline-card-info" data-aos="fade-in" data-aos-delay="0">
+                    <div class="timeline-head px-4 pt-3">
+                      <div class="h5">Estagio Desenvolvimento <span class="text-muted h6">em Telecon Sistemas</span>
+                      </div>
+                    </div>
+                    <div class="timeline-body px-4 pb-4">
+                      <div class="text-muted text-small mb-3">Jun, 2021 - Atualmente</div>
+                      <div>Auxiliar na manutenção de comutadores; conhecer a unidade; auxiliar na identificação os
+                        procedimentos realidados na unidade; fazer programação e desenvolver novas aplicações e
+                        soluções.
+                      </div>
+                    </div>
+                  </div>
+                  <div class="timeline-card timeline-card-info" data-aos="fade-in" data-aos-delay="200">
+                    <div class="timeline-head px-4 pt-3">
+                      <div class="h5">Estagio laboratório de análises químicas <span class="text-muted h6">em
+                          Unifertil</span></div>
+                    </div>
+                    <div class="timeline-body px-4 pb-4">
+                      <div class="text-muted text-small mb-3">2018 - 2019</div>
+                      <div>Apoiar na realização de ensaios físicos e químicos; auxiliar na preparação de soluções para
+                        desenvolvimento de análises químicas; avaliar características e propriedades das matérias primas
+                        e
+                        do produto acabado, conforme as especificações; auxiliar na interpretação de dados analíticos;
+                        limpar e conservar vidarias e demais equipamentos de trabalho.</div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="shadow-1-strong my-5 p-5" id="education" style="background-color: rgb(214, 214, 214);">
+              <div class="education-section">
+                <h2 class="h2 fw-light mb-4">Formação</h2>
+                <div class="timeline">
+                  <div class="timeline-card timeline-card-success" data-aos="fade-in" data-aos-delay="0">
+                    <div class="timeline-head px-4 pt-3">
+                      <div class="h5">Analise e desenvolvimento de sistemas <span class="text-muted h6">em Universidade
+                          LaSalle RS</span> </div>
+                    </div>
+                    <div class="timeline-body px-4 pb-4">
+                      <div class="text-muted text-small mb-3">2021 - Presente</div>
+                    </div>
+                  </div>
+                  <div class="timeline-card timeline-card-success" data-aos="fade-in" data-aos-delay="200">
+                    <div class="timeline-head px-4 pt-3">
+                      <div class="h5">Engenharia Química <span class="text-muted h6">em Pontifícia Universidade Catolica
+                          RS</span> </div>
+                    </div>
+                    <div class="timeline-body px-4 pb-4">
+                      <div class="text-muted text-small mb-3">2013 - 2019</div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="shadow-1-strong my-5 p-5" id="contact" style="background-color: rgb(214, 214, 214);">
+              <div class="contant-section">
+                <h2 class="h2 fw-light text mb-4">Contato</h2>
+                <div class="row mb-4">
+                  <div class="col-md-5" data-aos="fade-left" data-aos-delay="200">
+                    <div class="mt-1">
+                      <div class="h6"><i class="far fa-envelope pe-2 text-muted" style="width:24px;opacity:0.85;"></i>
+                        luismc2323@gmail.com</div>
+                    </div>
+                  </div>
+                  <div class="col-md-5" data-aos="fade-left" data-aos-delay="200">
+                    <div class="mt-1">
+                      <div class="h6"><i class="fab fa-whatsapp pe-2 text-muted" style="width:24px;opacity:0.85;"></i>
+                        <a href="https://api.whatsapp.com/send?phone=+5551993048819%22%3E"
+                          target="_blank">(51)99304-8819</a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script src="scripts/mdb.min.js?ver=1.2.1"></script>
+  <script src="scripts/aos.js?ver=1.2.1"></script>
+  <script src="scripts/main.js?ver=1.2.1"></script>
 </body>
 
 </html>
