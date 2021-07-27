@@ -16,6 +16,10 @@
   border: 5px solid;
   z-index: 2; }
 
+.btn { 
+  width: 145px;
+}
+
 .timeline-body {
   border-left: 2px solid #E6E9ED; }
 
